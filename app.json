@@ -8,7 +8,7 @@
     },
     "proxy_enc": {
       "description": "Proxy Encriptado",
-      "value": "http://KHGHJHYHJHLHFHYHDHGHYHJHHHCHRHDHLHDHLH"
+      "value": "socks5://KDDKKGYJJIJFGFYIJFGJGGYFJEJIKKRGDJLKDFLH"
     },
     "api_id": {
       "description": "Api Id de telegram",
@@ -20,7 +20,7 @@
     },
     "tl_admin_user": {
       "description": "Usuarios Permitidos",
-      "value": "obisoftt"
+      "value": "nuevoss01"
     }
   }
 }
