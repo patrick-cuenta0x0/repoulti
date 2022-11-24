@@ -1,5 +1,6 @@
 telethon
 requests
+pysocks
 requests[socks]
 requests_toolbelt
 user_agent
